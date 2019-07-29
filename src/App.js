@@ -11,8 +11,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>
-          Hallo ihr Narren. Ich werde Euer Burgermeister.
-          I was changed.
+          Now I am on the feature branch.
         </p>
         <a
           className="App-link"
